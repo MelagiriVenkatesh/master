@@ -1,4 +1,4 @@
 a = 50
 b = 10
-
-print(a+b)
+c = 21
+print(a+b+c)
